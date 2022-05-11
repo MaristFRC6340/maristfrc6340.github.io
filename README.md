@@ -1,5 +1,5 @@
-# ManateeResources
-A blog website for creating instructional guides on FRC for 6340 members
+# [ManateeResources](https://maristfrc6340.github.io)
+A blog website (located at [https://maristfrc6340.github.io](https://maristfrc6340.github.io)) dedicated for creating instructional guides on FRC for 6340 members
 <br>*Created by Alessio Toniolo*
 
 ## About
