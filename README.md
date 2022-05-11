@@ -1,5 +1,5 @@
 # [ManateeResources](https://maristfrc6340.github.io)
-A blog website (located at [https://maristfrc6340.github.io](https://maristfrc6340.github.io)) dedicated for creating instructional guides on FRC for 6340 members
+A blog website (located at [https://maristfrc6340.github.io](https://maristfrc6340.github.io)) dedicated for creating FRC guides on FRC for 6340 members
 <br>*Created by Alessio Toniolo*
 
 ## About
