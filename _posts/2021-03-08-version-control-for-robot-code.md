@@ -38,12 +38,36 @@ Here is a table with the buttons/commands that you will use with Git (at least i
 2. If the repository you just made does not show up in dropdown, go back to your Github repository, press the green `code` button, copy the .git link, and paste it into the VS Code dropdown
 
 > **Add changes**
-1. Once you are finished coding, go to the Version Control panel (see image below)
+1. Once you are finished coding, go to the Source Control panel (see image below)
 2. Press the plus for every file you want to add changes for or press the plus in the container to add them all with one button
 
 ![image](https://user-images.githubusercontent.com/44009231/167955938-cd01e535-ce51-4774-b887-aed6da1d76e4.png)
 
 
 > **Commit changes**
-1. In the text box above, type the commit message
-2. 
+1. In the text box near the top of the Source Control Panel, type the commit message
+2. Read [this article](https://code.visualstudio.com/docs/editor/versioncontrol#_commit) for more information
+
+> **Push changes
+1. Click on the three dots, which is the menu for `Views and More Actions`
+2. Press the `Push` button
+
+![image](https://user-images.githubusercontent.com/44009231/167966154-164c48f9-f291-4f25-bd9c-920a45392d91.png)
+
+---
+
+### Things to consider
+
+These instructions assume that you are creating a whole new, blank repository then creating the WPILib code locally in VS Code.
+
+*However,* you might be instead trying to get someone else's MaristFRC6340 repository into VS Code. In this case, you can skip the first step, `Create Repository`,
+and instead clone the repository from Github.
+
+To do this, you simply press on the green `Code` button on the Github page for the repository you want to clone. Then, copy the .git link and back in VS Code,
+in the Source Control Panel, click `Clone Repository`, and paste that copied link in the following text box. All steps after that still work!
+
+> NOTE: for those who want to clone a repository outside of the Marist 6340 organization, ask [Alessio Toniolo](https://github.com/AlessioToniolo)
+
+---
+
+<h4 align="center"> Created by Alessio Toniolo </h4>
