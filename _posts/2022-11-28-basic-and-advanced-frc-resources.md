@@ -1,4 +1,4 @@
-## Basic & Advanced FRC Resources
+## Basic and Advanced FRC Resources
 
 Below is a long list of links to pages that might be helpful for other new people to FRC. This list was created by Alessio, so I am definetly not an expert on FRC but I have found some better, more *official* pages on the internet that were compiled and made from Hall of Fame teams and experienced people in FRC that I think might be beneficial to digest.
 
