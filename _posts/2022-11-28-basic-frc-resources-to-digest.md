@@ -1,73 +1,45 @@
-## Version Control for Robot Code
+## Basic FRC Resources to Digest
 
-Version control, or the ability to record changes to a file or set of files over time in a group setting, is used commonly in FRC to be able to have a single
-code base that programmers can retrieve from the cloud, make changes locally (i.e. in [Visual Studio Code](https://code.visualstudio.com/), then upload their changes
-back to the cloud.
-
-In this blog post, you will learn out to:
-* Create a repository in the Marist FRC 6340
-* Connect to it in VS Code on the Marist Robotics Macs
-* Upload changes back to the repository
+Below is a long list of links to pages that might be helpful for other new people to FRC. This list was created by Alessio, so I am definetly not an expert on FRC but I have found some better, more *official* pages on the internet that were compiled and made from Hall of Fame teams and experienced people in FRC that I think might be beneficial to digest.
 
 ---
 
-The first thing to understand are the essential concepts of version control and [Git](https://git-scm.com/), a version control tool built into the VS Code user interface.
-
-Instead of me explaining it, I recommend clicking on this YouTube video below:
-
-[![what is git and github yt](https://img.youtube.com/vi/uUuTYDg9XoI/mqdefault.jpg)](https://www.youtube.com/watch?v=uUuTYDg9XoI)
-
-Here is a table with the buttons/commands that you will use with Git (at least in this environment because there are TONS of more Git features):
-
-| Command | Description |
+### List of Links
+| General Learning Sites | Links |
 | --- | ----------- |
-| Add Changes | When you make changes to the lines of code in your project, add these changes so they are "tracked" in Git |
-| Commit | In order to group line-by-line changes together, you make a commit once you have added the changes you want. You will specify a name for the commit |
-| Push | Once you make a commit, push your changes to the repository in the cloud
-| Pull/Fetch | If you have made no changes from the *last pushed commit* in the repository, fetch the changes locally that someone else may have uploaded to Github
-| Clone | Download the repository, aka project, from the cloud, aka github.com, with version control already enabled and ready to use
+| NASA FRC | [https://robotics.nasa.gov/frc-resources/](https://robotics.nasa.gov/frc-resources/) |
+| 8027 Tutorials | [https://frctutorials.com/](https://frctutorials.com/) |
+| 3847 Links | [https://spectrum3847.org/recommendedreading/](https://spectrum3847.org/recommendedreading/) |
+| **WPILib** | [https://docs.wpilib.org/en/stable/index.html](https://docs.wpilib.org/en/stable/index.html)
+| Compass Alliance | [https://www.thecompassalliance.org/](https://www.thecompassalliance.org/) |
 
----
+| Control and Progrmaming Tutorials | Links |
+| --- | ----------- |
+| PID Control Videos | [https://www.youtube.com/playlist?list=PLhwpRbR67J4ZeRu3oOCAZ7ocHwhJYFZVE](https://www.youtube.com/playlist?list=PLhwpRbR67J4ZeRu3oOCAZ7ocHwhJYFZVE) |
+| Path Planning | [https://docs.wpilib.org/en/latest/docs/software/pathplanning/index.html](https://docs.wpilib.org/en/latest/docs/software/pathplanning/index.html) |
+| WPI Coding Basics | [https://docs.wpilib.org/en/latest/docs/software/what-is-wpilib.html](https://docs.wpilib.org/en/latest/docs/software/what-is-wpilib.html) |
+| **WPILib** | [https://docs.wpilib.org/en/stable/index.html](https://docs.wpilib.org/en/stable/index.html)
+| Control System | [https://docs.wpilib.org/en/stable/index.html](https://docs.wpilib.org/en/stable/index.html) |
 
-> **Create repository**
-1. Follow [this](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository) guide on creating a repository on your github account
-2. However, when you get to the page where you specify the details of the repository (step 2 and on), make sure to press the `Owner` dropdown and select `MaristFRC6340`
+| Hardware | Links |
+| --- | ----------- |
+| Design Concepts Slides | [https://docs.google.com/presentation/d/1whyvTc-HmHIQoMQok2rVF6ahzuzkDI1A4BrMUjpHwMc/edit?usp=sharing](https://docs.google.com/presentation/d/1whyvTc-HmHIQoMQok2rVF6ahzuzkDI1A4BrMUjpHwMc/edit?usp=sharing) |
+| Drivetrain Slides | [https://docs.google.com/presentation/d/e/2PACX-1vQdp5sCBWXLnIhuR_vNpBzmgxvNQdWxasaVOBTnm5jsjW1C9lz_5UZL-IfrNocAD5l3QrsrgnoNUK8Y/pub?start=false&loop=false&delayms=3000&slide=id.p4](https://docs.google.com/presentation/d/e/2PACX-1vQdp5sCBWXLnIhuR_vNpBzmgxvNQdWxasaVOBTnm5jsjW1C9lz_5UZL-IfrNocAD5l3QrsrgnoNUK8Y/pub?start=false&loop=false&delayms=3000&slide=id.p4) |
+| 148 Tech Binder | [https://www.robowranglers148.com/uploads/1/0/5/4/10542658/houston_judges_book-rev3.pdf](https://www.robowranglers148.com/uploads/1/0/5/4/10542658/houston_judges_book-rev3.pdf) |
+| 254 Tech Binder | [https://media.team254.com/2021/07/959307c8-Team-254-Tech-Binder-2020.pdf](https://media.team254.com/2021/07/959307c8-Team-254-Tech-Binder-2020.pdf)
+| 144 Tech Binder | [https://drive.google.com/file/d/1KRBU0wn7TCYAgtS-Y_9k_Cta2AiJ6X2i/view](https://drive.google.com/file/d/1KRBU0wn7TCYAgtS-Y_9k_Cta2AiJ6X2i/view) |
 
-> **Clone repository in VS Code on FRC Programming Computer**
-1. Follow [this](https://code.visualstudio.com/docs/editor/github#_cloning-a-repository) guide
-2. If the repository you just made does not show up in dropdown, go back to your Github repository, press the green `code` button, copy the .git link, and paste it into the VS Code dropdown
+| Marketing, Business, and Organization | Links |
+| --- | ----------- |
+| Communication Tips | [https://docs.google.com/presentation/d/1nd8s_sws0tpW2qWcSv_kaK0tKnH-wIxycsRTRmsm-N0/edit#slide=id.p3](https://docs.google.com/presentation/d/1nd8s_sws0tpW2qWcSv_kaK0tKnH-wIxycsRTRmsm-N0/edit#slide=id.p3) |
+| Chairman's Award | [https://drive.google.com/file/d/1Ti4JBkAaFc4cB9oB_GwNmZSd9wdZXJG0/view](https://drive.google.com/file/d/1Ti4JBkAaFc4cB9oB_GwNmZSd9wdZXJG0/view) |
+| Fundraising | [https://www.firstinspires.org/resource-library/fundraising-toolkit](https://www.firstinspires.org/resource-library/fundraising-toolkit) |
+| Business Plan | [https://drive.google.com/file/d/1C-UMVVVggI8T06scKJVPZwT1v05jYtb7/view](https://drive.google.com/file/d/1C-UMVVVggI8T06scKJVPZwT1v05jYtb7/view)
+| Chairman's Award Videos & Essays | [https://penfieldrobotics.com/chairmans/](https://penfieldrobotics.com/chairmans/) |
+| Handy Chairman's Award Guide | [https://www.chiefdelphi.com/uploads/default/origi nal/3X/8/d/8d688b752c36d038a341b1ac77b0dbe94260b0d7.pdf](https://www.chiefdelphi.com/uploads/default/original/3X/8/d/8d688b752c36d038a341b1ac77b0dbe94260b0d7.pdf) |
 
-> **Add changes**
-1. Once you are finished coding, go to the Source Control panel (see image below)
-2. Press the plus for every file you want to add changes for or press the plus in the container to add them all with one button
-
-![image](https://user-images.githubusercontent.com/44009231/167955938-cd01e535-ce51-4774-b887-aed6da1d76e4.png)
-
-
-> **Commit changes**
-1. In the text box near the top of the Source Control Panel, type the commit message
-2. Read [this article](https://code.visualstudio.com/docs/editor/versioncontrol#_commit) for more information
-
-> **Push changes
-1. Click on the three dots, which is the menu for `Views and More Actions`
-2. Press the `Push` button
-
-![image](https://user-images.githubusercontent.com/44009231/167966154-164c48f9-f291-4f25-bd9c-920a45392d91.png)
-
----
-
-### Things to consider
-
-These instructions assume that you are creating a whole new, blank repository then creating the WPILib code locally in VS Code.
-
-*However,* you might be instead trying to get someone else's MaristFRC6340 repository into VS Code. In this case, you can skip the first step, `Create Repository`,
-and instead clone the repository from Github.
-
-To do this, you simply press on the green `Code` button on the Github page for the repository you want to clone. Then, copy the .git link and back in VS Code,
-in the Source Control Panel, click `Clone Repository`, and paste that copied link in the following text box. All steps after that still work!
-
-> NOTE: for those who want to clone a repository outside of the Marist 6340 organization, ask [Alessio Toniolo](https://github.com/AlessioToniolo)
-
----
+***Also, the FRC Discord is a great place to see timely innovation made by other teams***
+- Join at [this link](https://discordapp.com/invite/frc )
+- View how to use the discord at [this page](https://firstalliances.org/program/27/)
 
 <h4 align="center"> Created by Alessio Toniolo </h4>
