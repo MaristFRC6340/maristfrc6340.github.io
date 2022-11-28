@@ -5,6 +5,9 @@ Below is a long list of links to pages that might be helpful for other new peopl
 ---
 
 ### List of Links
+
+<br>
+
 | General Learning Sites | Links |
 | --- | ----------- |
 | NASA FRC | [https://robotics.nasa.gov/frc-resources/](https://robotics.nasa.gov/frc-resources/) |
