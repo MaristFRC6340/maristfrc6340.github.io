@@ -15,6 +15,7 @@ Below is a long list of links to pages that might be helpful for other new peopl
 | 3847 Links | [https://spectrum3847.org/recommendedreading/](https://spectrum3847.org/recommendedreading/) |
 | **WPILib** | [https://docs.wpilib.org/en/stable/index.html](https://docs.wpilib.org/en/stable/index.html)
 | Compass Alliance | [https://www.thecompassalliance.org/](https://www.thecompassalliance.org/) |
+| Mini PC Photonvision Tests | [https://docs.google.com/document/d/1AU8rK364pTvNaS69ZJ6ZdovyLU_sL_PJ9WSHSJIVoqk/edit](https://docs.google.com/document/d/1AU8rK364pTvNaS69ZJ6ZdovyLU_sL_PJ9WSHSJIVoqk/edit) |
 
 | Control and Progrmaming Tutorials | Links |
 | --- | ----------- |
