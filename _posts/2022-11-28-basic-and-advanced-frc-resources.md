@@ -16,7 +16,6 @@ Below is a long list of links to pages that might be helpful for other new peopl
 | **WPILib** | [https://docs.wpilib.org/en/stable/index.html](https://docs.wpilib.org/en/stable/index.html)
 | Compass Alliance | [https://www.thecompassalliance.org/](https://www.thecompassalliance.org/) |
 | PhotonVision | [https://docs.photonvision.org/en/latest/index.html](https://docs.photonvision.org/en/latest/index.html) |
-| Mini PC Photonvision Tests | [https://docs.google.com/document/d/1AU8rK364pTvNaS69ZJ6ZdovyLU_sL_PJ9WSHSJIVoqk/edit](https://docs.google.com/document/d/1AU8rK364pTvNaS69ZJ6ZdovyLU_sL_PJ9WSHSJIVoqk/edit) |
 
 | Control and Progrmaming Tutorials | Links |
 | --- | ----------- |
@@ -25,6 +24,7 @@ Below is a long list of links to pages that might be helpful for other new peopl
 | WPI Coding Basics | [https://docs.wpilib.org/en/latest/docs/software/what-is-wpilib.html](https://docs.wpilib.org/en/latest/docs/software/what-is-wpilib.html) |
 | **WPILib** | [https://docs.wpilib.org/en/stable/index.html](https://docs.wpilib.org/en/stable/index.html)
 | Control System | [https://docs.wpilib.org/en/stable/index.html](https://docs.wpilib.org/en/stable/index.html) |
+| Mini PC Photonvision Tests | [https://docs.google.com/document/d/1AU8rK364pTvNaS69ZJ6ZdovyLU_sL_PJ9WSHSJIVoqk/edit](https://docs.google.com/document/d/1AU8rK364pTvNaS69ZJ6ZdovyLU_sL_PJ9WSHSJIVoqk/edit) |
 
 | Hardware | Links |
 | --- | ----------- |
@@ -33,6 +33,10 @@ Below is a long list of links to pages that might be helpful for other new peopl
 | 148 Tech Binder | [https://www.robowranglers148.com/uploads/1/0/5/4/10542658/houston_judges_book-rev3.pdf](https://www.robowranglers148.com/uploads/1/0/5/4/10542658/houston_judges_book-rev3.pdf) |
 | 254 Tech Binder | [https://media.team254.com/2021/07/959307c8-Team-254-Tech-Binder-2020.pdf](https://media.team254.com/2021/07/959307c8-Team-254-Tech-Binder-2020.pdf)
 | 144 Tech Binder | [https://drive.google.com/file/d/1KRBU0wn7TCYAgtS-Y_9k_Cta2AiJ6X2i/view](https://drive.google.com/file/d/1KRBU0wn7TCYAgtS-Y_9k_Cta2AiJ6X2i/view) |
+
+| Electronics | Links |
+| --- | ----------- |
+| WPI Wiring a robot Zero to Hero | [https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-1/how-to-wire-a-robot.html](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-1/how-to-wire-a-robot.html)
 
 | Marketing, Business, and Organization | Links |
 | --- | ----------- |
@@ -47,4 +51,4 @@ Below is a long list of links to pages that might be helpful for other new peopl
 - Join at [this link](https://discordapp.com/invite/frc )
 - View how to use the discord at [this page](https://firstalliances.org/program/27/)
 
-<h4 align="center"> Created by Alessio Toniolo </h4>
+<h4 align="center"> Created by Alessio Toniolo. Contributed by Nick Dagnino </h4>
