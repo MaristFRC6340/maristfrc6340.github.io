@@ -37,6 +37,7 @@ Below is a long list of links to pages that might be helpful for other new peopl
 | Electronics | Links |
 | --- | ----------- |
 | WPI Wiring a robot Zero to Hero | [https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-1/how-to-wire-a-robot.html](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-1/how-to-wire-a-robot.html)
+| WPI CAN Wiring Basics | [https://docs.wpilib.org/en/stable/docs/hardware/hardware-basics/can-wiring-basics.html](https://docs.wpilib.org/en/stable/docs/hardware/hardware-basics/can-wiring-basics.html)
 
 | Marketing, Business, and Organization | Links |
 | --- | ----------- |
