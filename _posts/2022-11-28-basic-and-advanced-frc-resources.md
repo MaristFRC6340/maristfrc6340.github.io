@@ -37,6 +37,7 @@ https://github.com/MaristFRC6340/2022NeoBaseCode
 
 | Hardware | Links |
 | --- | ----------- |
+| Physics Calculators | [https://onshape4frc.com/calculators](https://onshape4frc.com/calculators)
 | Onshape Parts Library | [https://onshape4frc.com/](https://onshape4frc.com/)
 | Design Concepts Slides | [https://docs.google.com/presentation/d/1whyvTc-HmHIQoMQok2rVF6ahzuzkDI1A4BrMUjpHwMc/edit?usp=sharing](https://docs.google.com/presentation/d/1whyvTc-HmHIQoMQok2rVF6ahzuzkDI1A4BrMUjpHwMc/edit?usp=sharing) |
 | Drivetrain Slides | [https://docs.google.com/presentation/d/e/2PACX-1vQdp5sCBWXLnIhuR_vNpBzmgxvNQdWxasaVOBTnm5jsjW1C9lz_5UZL-IfrNocAD5l3QrsrgnoNUK8Y/pub?start=false&loop=false&delayms=3000&slide=id.p4](https://docs.google.com/presentation/d/e/2PACX-1vQdp5sCBWXLnIhuR_vNpBzmgxvNQdWxasaVOBTnm5jsjW1C9lz_5UZL-IfrNocAD5l3QrsrgnoNUK8Y/pub?start=false&loop=false&delayms=3000&slide=id.p4) |
