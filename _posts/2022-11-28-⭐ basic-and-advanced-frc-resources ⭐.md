@@ -16,7 +16,8 @@ Below is a long list of links to pages that might be helpful for other new peopl
 | **WPILib** | [https://docs.wpilib.org/en/stable/index.html](https://docs.wpilib.org/en/stable/index.html)
 | Compass Alliance | [https://www.thecompassalliance.org/](https://www.thecompassalliance.org/) |
 | PhotonVision | [https://docs.photonvision.org/en/latest/index.html](https://docs.photonvision.org/en/latest/index.html) |
-| Command-based Programming | [https://docs.wpilib.org/en/stable/docs/software/commandbased/index.html](https://docs.wpilib.org/en/stable/docs/software/commandbased/index.html)
+| Command-based Programming | [https://docs.wpilib.org/en/stable/docs/software/commandbased/index.html](https://docs.wpilib.org/en/stable/docs/software/commandbased/index.html) |
+| Open source robot CADs and Code: The Open Alliance | [https://www.theopenalliance.com/](https://www.theopenalliance.com/) |
 
 | Control and Progrmaming Tutorials | Links |
 | --- | ----------- |
